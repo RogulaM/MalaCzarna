@@ -1,0 +1,42 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    style="@style/scroll_view_style">
+
+    <LinearLayout style="@style/linear_layout_style">
+
+        <ImageView
+            android:src="@drawable/mala_czarna_image"
+            style="@style/place_image_style" />
+
+        <TextView
+            android:text="@string/place_name"
+            style="@style/place_name_style" />
+
+        <TextView
+            android:text="@string/place_address"
+            style="@style/place_address_style" />
+
+        <TextView
+            android:text="@string/place_phone_number"
+            style="@style/place_phone_number_style" />
+
+        <TextView
+            android:text="@string/place_facebook_page"
+            style="@style/place_facebook_page_style" />
+
+        <TextView
+            android:text="@string/place_operation_hours_monday_friday"
+            style="@style/place_operation_hours_monday_friday_style" />
+
+        <TextView
+            android:text="@string/place_operation_hours_saturday_sunday"
+            style="@style/place_operation_hours_saturday_sunday_style" />
+
+        <TextView
+            android:text="@string/place_description"
+            style="@style/place_description_style" />
+
+    </LinearLayout>
+
+</ScrollView>

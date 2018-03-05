@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MalaCzarna</string>
+    <string name="place_name">Mała Czarna - Café</string>
+    <string name="place_address">al. Paderewskiego 35 51-612 Wrocław</string>
+    <string name="place_phone_number">71 792 08 00</string>
+    <string name="place_facebook_page">facebook.com/palarniamalaczarna</string>
+    <string name="place_operation_hours_monday_friday">Monday - Friday: 7:30 - 20:00</string>
+    <string name="place_operation_hours_saturday_sunday">Saturday - Sunday: 10:00 - 18:00</string>
+    <string name="place_description">Mała Czarna is a local roaster and cafe located on the green Zalesie in Wrocław. High-quality coffee, good tea and cold drinks.</string>
+
+</resources>
